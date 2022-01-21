@@ -1,0 +1,19 @@
+
+body{
+    margin-left:35px;
+   
+}
+.titulo{
+    font-size: 60px;
+    color: rgb(19, 209, 223);  
+}
+img{
+    width:800px;
+}
+.descripcion-tienda{
+    background-color:bisque;
+    padding:20px;
+}
+.footer{
+    background-color: gray;
+}
